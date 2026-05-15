@@ -18,7 +18,7 @@ const Hero3D = dynamic(() => import('@/components/Hero3D'), {
 });
 
 export default async function HomePage() {
-  let products = [];
+  let products: any[] = [];
   try {
     products = await getProducts(12);
   } catch (err) {
