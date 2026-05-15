@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { useLanguage } from '@/context/LanguageContext';
-import { categoryMeta } from '@/lib/placeholder';
+import { categoryMeta } from '@/lib/categories';
 import CategoryCard from './CategoryCard';
 
 export default function CategorySection() {
