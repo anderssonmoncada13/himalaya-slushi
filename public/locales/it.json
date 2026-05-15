@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "HIMALAYA SLUSHI",
+    "subtitle": "Bevande ghiacciate premium e dolcezze fresche",
+    "shopNow": "Acquista Ora",
+    "exploreMenu": "Esplora il Menu"
+  },
+  "nav": {
+    "menu": "Menu",
+    "cart": "Carrello",
+    "home": "Home",
+    "products": "Prodotti",
+    "about": "Chi Siamo"
+  },
+  "categories": {
+    "title": "Il Nostro Menu",
+    "slushies": "Slushies",
+    "smoothies": "Smoothies",
+    "naturalJuices": "Succhi Naturali",
+    "milkshakes": "Milkshake",
+    "proteinCups": "Coppe Proteiche",
+    "fruitCups": "Coppe di Frutta",
+    "freshCutFruit": "Frutta Fresca Tagliata"
+  },
+  "product": {
+    "addToCart": "Aggiungi al Carrello",
+    "viewProduct": "Vedi Prodotto",
+    "flavor": "Sapore",
+    "ingredients": "Ingredienti",
+    "from": "Da",
+    "outOfStock": "Esaurito"
+  },
+  "cart": {
+    "title": "Il Tuo Carrello",
+    "empty": "Il tuo carrello è vuoto",
+    "checkout": "Acquista",
+    "subtotal": "Subtotale",
+    "remove": "Rimuovi",
+    "continueShopping": "Continua gli Acquisti",
+    "quantity": "Qtà",
+    "total": "Totale"
+  },
+  "featured": {
+    "title": "Creazioni in Evidenza",
+    "subtitle": "Realizzate alla perfezione con i migliori ingredienti"
+  },
+  "flavors": {
+    "title": "Sapori Signature",
+    "subtitle": "Sette sapori iconici per elevare la tua esperienza"
+  },
+  "brand": {
+    "title": "La Storia HIMALAYA",
+    "subtitle": "Nata da una passione per la freschezza pura e premium",
+    "description": "Ogni goccia di HIMALAYA SLUSHI testimonia la nostra incessante ricerca della perfezione. Selezioniamo solo i migliori ingredienti e offriamo un'esperienza che trascende l'ordinario.",
+    "fresh": "Sempre Fresco",
+    "cold": "Perfettamente Freddo",
+    "colorful": "Meravigliosamente Colorato",
+    "premium": "Irrimediabilmente Premium"
+  },
+  "footer": {
+    "tagline": "Bevande ghiacciate premium e dolcezze fresche",
+    "contact": "Contattaci",
+    "policies": "Politiche",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio",
+    "shipping": "Politica di Spedizione",
+    "followUs": "Seguici",
+    "rights": "Tutti i diritti riservati"
+  },
+  "productTranslation": {
+    "pinaColada": {
+      "name": "Slushi Piña Colada",
+      "description": "Paradiso tropicale ad ogni sorso. Cocco cremoso con ananas dolce.",
+      "ingredients": "Ananas, Crema di Cocco, Lime, Ghiaccio"
+    },
+    "strawberry": {
+      "name": "Slushi alla Fragola",
+      "description": "Intensamente dolce, perfettamente aspro. Fragole raccolte a mano.",
+      "ingredients": "Fragola, Succo di Limone, Canna da Zucchero, Ghiaccio"
+    },
+    "rainbow": {
+      "name": "Slushi Arcobaleno",
+      "description": "Sette sapori mescolati in uno spettacolare capolavoro ghiacciato.",
+      "ingredients": "Fragola, Mango, Lime, Mirtillo, Pesca, Anguria, Cocco"
+    }
+  }
+}

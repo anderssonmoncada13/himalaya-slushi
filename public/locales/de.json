@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "HIMALAYA SLUSHI",
+    "subtitle": "Premium-Eisgetränke und frische Köstlichkeiten",
+    "shopNow": "Jetzt Einkaufen",
+    "exploreMenu": "Menü Entdecken"
+  },
+  "nav": {
+    "menu": "Menü",
+    "cart": "Warenkorb",
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über Uns"
+  },
+  "categories": {
+    "title": "Unser Menü",
+    "slushies": "Slushies",
+    "smoothies": "Smoothies",
+    "naturalJuices": "Natürliche Säfte",
+    "milkshakes": "Milkshakes",
+    "proteinCups": "Protein-Becher",
+    "fruitCups": "Frucht-Becher",
+    "freshCutFruit": "Frisch Geschnittenes Obst"
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "viewProduct": "Produkt Ansehen",
+    "flavor": "Geschmack",
+    "ingredients": "Zutaten",
+    "from": "Ab",
+    "outOfStock": "Ausverkauft"
+  },
+  "cart": {
+    "title": "Ihr Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "checkout": "Zur Kasse",
+    "subtotal": "Zwischensumme",
+    "remove": "Entfernen",
+    "continueShopping": "Weiter Einkaufen",
+    "quantity": "Menge",
+    "total": "Gesamt"
+  },
+  "featured": {
+    "title": "Ausgewählte Kreationen",
+    "subtitle": "Mit Perfektion aus den feinsten Zutaten handgefertigt"
+  },
+  "flavors": {
+    "title": "Signature-Geschmäcker",
+    "subtitle": "Sieben ikonische Geschmäcker für ein erhebendes Erlebnis"
+  },
+  "brand": {
+    "title": "Die HIMALAYA-Geschichte",
+    "subtitle": "Aus einer Leidenschaft für pure, erstklassige Erfrischung geboren",
+    "description": "Jeder Tropfen HIMALAYA SLUSHI ist ein Zeugnis unseres unermüdlichen Strebens nach Perfektion. Wir verwenden nur die feinsten Zutaten und liefern ein Erlebnis, das das Gewöhnliche übersteigt.",
+    "fresh": "Immer Frisch",
+    "cold": "Perfekt Kalt",
+    "colorful": "Wunderschön Bunt",
+    "premium": "Kompromisslos Premium"
+  },
+  "footer": {
+    "tagline": "Premium-Eisgetränke und frische Köstlichkeiten",
+    "contact": "Kontakt",
+    "policies": "Richtlinien",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "shipping": "Versandrichtlinie",
+    "followUs": "Folgen Sie Uns",
+    "rights": "Alle Rechte vorbehalten"
+  },
+  "productTranslation": {
+    "pinaColada": {
+      "name": "Piña Colada Slushi",
+      "description": "Tropisches Paradies in jedem Schluck. Cremige Kokosnuss trifft süße Ananas.",
+      "ingredients": "Ananas, Kokosnusscreme, Limette, Eis"
+    },
+    "strawberry": {
+      "name": "Erdbeer-Slushi",
+      "description": "Intensiv süß, perfekt säuerlich. Handgepflückte Erdbeeren.",
+      "ingredients": "Erdbeere, Zitronensaft, Zuckerrohr, Eis"
+    },
+    "rainbow": {
+      "name": "Regenbogen-Slushi",
+      "description": "Sieben Aromen zu einem spektakulären Eismeisterwerk vereint.",
+      "ingredients": "Erdbeere, Mango, Limette, Blaubeere, Pfirsich, Wassermelone, Kokosnuss"
+    }
+  }
+}

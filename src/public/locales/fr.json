@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "HIMALAYA SLUSHI",
+    "subtitle": "Boissons glacées premium et délices frais",
+    "shopNow": "Acheter Maintenant",
+    "exploreMenu": "Explorer le Menu"
+  },
+  "nav": {
+    "menu": "Menu",
+    "cart": "Panier",
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À Propos"
+  },
+  "categories": {
+    "title": "Notre Menu",
+    "slushies": "Slushies",
+    "smoothies": "Smoothies",
+    "naturalJuices": "Jus Naturels",
+    "milkshakes": "Milkshakes",
+    "proteinCups": "Coupes Protéinées",
+    "fruitCups": "Coupes de Fruits",
+    "freshCutFruit": "Fruits Frais Coupés"
+  },
+  "product": {
+    "addToCart": "Ajouter au Panier",
+    "viewProduct": "Voir le Produit",
+    "flavor": "Saveur",
+    "ingredients": "Ingrédients",
+    "from": "À partir de",
+    "outOfStock": "Rupture de Stock"
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": "Votre panier est vide",
+    "checkout": "Commander",
+    "subtotal": "Sous-total",
+    "remove": "Supprimer",
+    "continueShopping": "Continuer les Achats",
+    "quantity": "Qté",
+    "total": "Total"
+  },
+  "featured": {
+    "title": "Créations Vedettes",
+    "subtitle": "Confectionnées à la perfection avec les meilleurs ingrédients"
+  },
+  "flavors": {
+    "title": "Saveurs Signature",
+    "subtitle": "Sept saveurs iconiques pour sublimer votre expérience"
+  },
+  "brand": {
+    "title": "L'Histoire HIMALAYA",
+    "subtitle": "Née d'une passion pour la fraîcheur pure et premium",
+    "description": "Chaque goutte de HIMALAYA SLUSHI témoigne de notre quête incessante de la perfection. Nous sélectionnons uniquement les meilleurs ingrédients pour offrir une expérience qui transcende l'ordinaire.",
+    "fresh": "Toujours Frais",
+    "cold": "Parfaitement Froid",
+    "colorful": "Magnifiquement Coloré",
+    "premium": "Irrémédiablement Premium"
+  },
+  "footer": {
+    "tagline": "Boissons glacées premium et délices frais",
+    "contact": "Nous Contacter",
+    "policies": "Politiques",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "shipping": "Politique d'Expédition",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés"
+  },
+  "productTranslation": {
+    "pinaColada": {
+      "name": "Slushi Piña Colada",
+      "description": "Paradis tropical à chaque gorgée. Noix de coco crémeuse et ananas sucré.",
+      "ingredients": "Ananas, Crème de Coco, Citron Vert, Glace"
+    },
+    "strawberry": {
+      "name": "Slushi aux Fraises",
+      "description": "Intensément sucré, parfaitement acidulé. Fraises cueillies à la main.",
+      "ingredients": "Fraise, Jus de Citron, Canne à Sucre, Glace"
+    },
+    "rainbow": {
+      "name": "Slushi Arc-en-ciel",
+      "description": "Sept saveurs mélangées en un spectaculaire chef-d'œuvre glacé.",
+      "ingredients": "Fraise, Mangue, Citron, Myrtille, Pêche, Pastèque, Noix de Coco"
+    }
+  }
+}

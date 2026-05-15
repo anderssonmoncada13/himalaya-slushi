@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "HIMALAYA SLUSHI",
+    "subtitle": "Bebidas heladas premium y antojitos frescos",
+    "shopNow": "Comprar Ahora",
+    "exploreMenu": "Explorar Menú"
+  },
+  "nav": {
+    "menu": "Menú",
+    "cart": "Carrito",
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Nosotros"
+  },
+  "categories": {
+    "title": "Nuestro Menú",
+    "slushies": "Slushies",
+    "smoothies": "Smoothies",
+    "naturalJuices": "Jugos Naturales",
+    "milkshakes": "Malteadas",
+    "proteinCups": "Vasos de Proteína",
+    "fruitCups": "Vasos de Frutas",
+    "freshCutFruit": "Fruta Fresca Cortada"
+  },
+  "product": {
+    "addToCart": "Agregar al Carrito",
+    "viewProduct": "Ver Producto",
+    "flavor": "Sabor",
+    "ingredients": "Ingredientes",
+    "from": "Desde",
+    "outOfStock": "Agotado"
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "checkout": "Pagar",
+    "subtotal": "Subtotal",
+    "remove": "Eliminar",
+    "continueShopping": "Seguir Comprando",
+    "quantity": "Cant.",
+    "total": "Total"
+  },
+  "featured": {
+    "title": "Creaciones Destacadas",
+    "subtitle": "Elaboradas a la perfección con los mejores ingredientes"
+  },
+  "flavors": {
+    "title": "Sabores Exclusivos",
+    "subtitle": "Siete sabores icónicos para elevar tu experiencia"
+  },
+  "brand": {
+    "title": "La Historia HIMALAYA",
+    "subtitle": "Nació de una pasión por la frescura pura y premium",
+    "description": "Cada gota de HIMALAYA SLUSHI es un testimonio de nuestra búsqueda incansable de la perfección. Seleccionamos solo los mejores ingredientes y entregamos una experiencia que trasciende lo ordinario.",
+    "fresh": "Siempre Fresco",
+    "cold": "Perfectamente Frío",
+    "colorful": "Bellamente Colorido",
+    "premium": "Incuestionablemente Premium"
+  },
+  "footer": {
+    "tagline": "Bebidas heladas premium y antojitos frescos",
+    "contact": "Contáctanos",
+    "policies": "Políticas",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "shipping": "Política de Envío",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados"
+  },
+  "productTranslation": {
+    "pinaColada": {
+      "name": "Slushi de Piña Colada",
+      "description": "Paraíso tropical en cada sorbo. Coco cremoso con piña dulce.",
+      "ingredients": "Piña, Crema de Coco, Limón, Hielo"
+    },
+    "strawberry": {
+      "name": "Slushi de Fresa",
+      "description": "Intensamente dulce, perfectamente ácido. Fresas seleccionadas.",
+      "ingredients": "Fresa, Jugo de Limón, Caña de Azúcar, Hielo"
+    },
+    "rainbow": {
+      "name": "Slushi Arcoíris",
+      "description": "Siete sabores mezclados en una obra maestra helada espectacular.",
+      "ingredients": "Fresa, Mango, Limón, Blueberry, Durazno, Sandía, Coco"
+    }
+  }
+}

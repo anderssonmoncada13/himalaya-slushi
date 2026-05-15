@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "HIMALAYA SLUSHI",
+    "subtitle": "Premium frozen drinks & fresh treats",
+    "shopNow": "Shop Now",
+    "exploreMenu": "Explore Menu"
+  },
+  "nav": {
+    "menu": "Menu",
+    "cart": "Cart",
+    "home": "Home",
+    "products": "Products",
+    "about": "About"
+  },
+  "categories": {
+    "title": "Our Menu",
+    "slushies": "Slushies",
+    "smoothies": "Smoothies",
+    "naturalJuices": "Natural Juices",
+    "milkshakes": "Milkshakes",
+    "proteinCups": "Protein Cups",
+    "fruitCups": "Fruit Cups",
+    "freshCutFruit": "Fresh Cut Fruit"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "viewProduct": "View Product",
+    "flavor": "Flavor",
+    "ingredients": "Ingredients",
+    "from": "From",
+    "outOfStock": "Out of Stock"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "checkout": "Checkout",
+    "subtotal": "Subtotal",
+    "remove": "Remove",
+    "continueShopping": "Continue Shopping",
+    "quantity": "Qty",
+    "total": "Total"
+  },
+  "featured": {
+    "title": "Featured Creations",
+    "subtitle": "Handcrafted to perfection with the finest ingredients"
+  },
+  "flavors": {
+    "title": "Signature Flavors",
+    "subtitle": "Seven iconic flavors to elevate your experience"
+  },
+  "brand": {
+    "title": "The HIMALAYA Story",
+    "subtitle": "Born from a passion for pure, premium refreshment",
+    "description": "Every drop of HIMALAYA SLUSHI is a testament to our relentless pursuit of perfection. We source only the finest ingredients, craft every blend with precision, and deliver an experience that transcends the ordinary.",
+    "fresh": "Always Fresh",
+    "cold": "Perfectly Cold",
+    "colorful": "Beautifully Colorful",
+    "premium": "Uncompromisingly Premium"
+  },
+  "footer": {
+    "tagline": "Premium frozen drinks & fresh treats",
+    "contact": "Contact Us",
+    "policies": "Policies",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "shipping": "Shipping Policy",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "productTranslation": {
+    "pinaColada": {
+      "name": "Piña Colada Slushi",
+      "description": "Tropical paradise in every sip. Creamy coconut meets sweet pineapple.",
+      "ingredients": "Pineapple, Coconut Cream, Lime, Ice"
+    },
+    "strawberry": {
+      "name": "Strawberry Bliss Slushi",
+      "description": "Intensely sweet, perfectly tart. Hand-picked strawberries.",
+      "ingredients": "Strawberry, Lemon Juice, Sugar Cane, Ice"
+    },
+    "rainbow": {
+      "name": "Rainbow Mix Slushi",
+      "description": "Seven flavors swirled into one spectacular icy masterpiece.",
+      "ingredients": "Strawberry, Mango, Lime, Blueberry, Peach, Watermelon, Coconut"
+    }
+  }
+}
